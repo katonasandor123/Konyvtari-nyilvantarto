@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\Nyilvantarto.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\Nyilvantarto_MarkupCompile.cache
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\Nyilvantarto_MarkupCompile.lref
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\bin\Debug\Nyilvantarto.exe.config
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\bin\Debug\Nyilvantarto.exe
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\bin\Debug\Nyilvantarto.pdb
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\Nyilvantarto.g.resources
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\Nyilvantarto.Properties.Resources.resources
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\Nyilvantarto.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\Nyilvantarto.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\Nyilvantarto.exe
+C:\Users\Asus\Desktop\KompProg\Nyilvantarto\Nyilvantarto\obj\Debug\Nyilvantarto.pdb
